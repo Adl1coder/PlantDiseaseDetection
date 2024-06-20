@@ -17,4 +17,7 @@ Proje, tarımda bitki hastalıklarının erken teşhisini kolaylaştırmayı ama
 - Doğruluk Oranı: %78
 - Web Uygulaması: Flask çerçevesi kullanılarak geliştirilmiştir.
 
+  ### Dataset
+  https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset
+
 
